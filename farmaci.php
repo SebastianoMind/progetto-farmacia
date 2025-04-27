@@ -55,7 +55,7 @@ $get_farmaci = $farmaci->fetchAll(PDO::FETCH_ASSOC);
                             <th>Denominazione</th>
                             <th>Data Scadenza</th>
                             <th>Prezzo</th>
-                            <th>Azioni</th>
+                            <th>Azionii</th>
                         </tr>
                     </thead>
                     <tbody>
